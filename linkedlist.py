@@ -70,4 +70,10 @@ if __name__ == "__main__":
 
     ll.print()
 
+    ll.delete(6)
+    ll.print()
+
+    ll.delete(6)
+    ll.print()
+
 
