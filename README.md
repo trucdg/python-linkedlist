@@ -27,7 +27,9 @@
 - Worst Case: when operating **_at the end of the list_**
 
 ### The following are the methods implemented:
-1. insert(i) - insert element at a given position in the Linked List
+1. append(new_node) - append the new node to the end of the list
 2. delete(val) - delete the first node with the given value 
+3. insert(new_node, position) - insert a new node at the given position, assuming the first position is 1
+4. print() - print the string representing the linked list
 
 
