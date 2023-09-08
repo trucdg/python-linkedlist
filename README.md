@@ -32,4 +32,6 @@
 3. insert(new_node, position) - insert a new node at the given position, assuming the first position is 1
 4. print() - print the string representing the linked list
 
+## Resources:
+- [Two Pointers Technique in LinkedList](https://github.com/trucdg/linked-list-two-pointers)
 
